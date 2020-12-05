@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "74386400912",
+    "firebase_url": "https://applicationdontfailme.firebaseio.com",
+    "project_id": "applicationdontfailme",
+    "storage_bucket": "applicationdontfailme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74386400912:android:d815bb5423196fd0b81a15",
+        "android_client_info": {
+          "package_name": "com.example.application_dontfailme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74386400912-ghma11l01lqmvte5isjvh1kq6gdu44fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.application_dontfailme",
+            "certificate_hash": "74cfdf8ea0368cad17f55b1ffe79b6bf1d659e6f"
+          }
+        },
+        {
+          "client_id": "74386400912-1l3hd8khkpb1hf9dvrr2m7lchh5281rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7gvta8iewQkV-bJvFkrkMWCitDpB968"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74386400912-1l3hd8khkpb1hf9dvrr2m7lchh5281rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
